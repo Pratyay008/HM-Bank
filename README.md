@@ -1,6 +1,6 @@
 # HM-Bank
 
-A web application which is a basic banking system for making transactions between one user to other users.
+A web application which is a basic banking system for making transactions.
 
 ## About:
 - Can transfer money between one user to other users.
